@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+# Fernando Aires - Portfolio & Resume 👨‍💻
 
-You can use the [editor on GitHub](https://github.com/fsaires/fsaires.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bem-vindo ao repositório do meu currículo online e portfólio profissional! Este projeto está hospedado no GitHub Pages e serve como meu cartão de visitas digital, detalhando minha trajetória de mais de 15 anos como Engenheiro de Software Sênior.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+🌐 **Acesse o site online:** [https://fsaires.github.io/](https://fsaires.github.io/)
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 📌 Sobre Mim
 
-```markdown
-Syntax highlighted code block
+Sou um **Engenheiro de Software Sênior** com vasta experiência no desenvolvimento de aplicações web e administração de dados. Minha carreira é marcada pela colaboração em grandes instituições (como CAIXA e OEI), onde apliquei minhas habilidades para criar experiências notáveis e impulsionar o sucesso das equipes.
 
-# Header 1
-## Header 2
-### Header 3
+Atualmente, também estou expandindo meus horizontes cursando Engenharia Civil e possuo especializações em **Ciência de Dados**, **Big Data** e **Banco de Dados**.
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## 🛠 Tecnologias e Habilidades
 
-**Bold** and _Italic_ and `Code` text
+Minha stack técnica e áreas de conhecimento incluem:
 
-[Link](url) and ![Image](src)
-```
+* **Front-end:** HTML, CSS, JavaScript, React.
+* **Back-end & APIs:** Node.js, APIs REST, JSON, XML, AJAX.
+* **Banco de Dados:** Oracle (SQL, PL/SQL), MongoDB, Administração de Dados.
+* **Cloud & Infra:** Microsoft Azure (Fundamentals & Data Fundamentals).
+* **Metodologias:** Agile, Scrum, Kanban.
+* **Outros:** Git, ITIL, Engenharia de Requisitos (CPRE-FL).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
+## 💼 Experiência Profissional Recente
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fsaires/fsaires.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* **Administrador de Dados** @ CAIXA (Mai 2024 - Presente)
+* **Consultor Principal** @ CAIXA SEGURIDADE (Out 2021 - Mai 2024)
+* **Assistente Pleno** @ CAIXA (Abr 2018 - Out 2021)
+* **Consultor de TI** @ OEI (Organização dos Estados Ibero-americanos)
+* **Engenheiro de Software Sênior** @ Cast IT Group
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 🎓 Educação e Certificações
+
+### Formação Acadêmica
+* **Graduação em Engenharia Civil** (Em andamento) - UCB
+* **Pós-graduação em Data Science e Big Data** - PUC Minas
+* **Bootcamp Full Stack Developer** - IGTI
+* **Bacharelado em Sistemas de Informação** - UNIEURO
+
+### Principais Certificações 🏆
+* Microsoft Certified: **Azure Data Fundamentals** & **Azure Fundamentals**
+* **Scrum Fundamentals Certified (SFC™)**
+* **Oracle Database SQL Certified Expert** & **Administrator Certified Associate**
+* **ITIL Service Management Foundation**
+* **CPRE-FL** (Engenharia de Requisitos)
+
+---
+
+## ⚡ Interesses Pessoais
+
+Além da tecnologia, sou apaixonado por:
+* 🍖 Churrasco brasileiro em família.
+* 🪙 Criptomoedas, Blockchain e Mercados Financeiros.
+* ✈️ Viagens e novas culturas.
+* ♠️ Poker e jogos de estratégia.
+
+---
+
+## 📬 Contato
+
+Sinta-se à vontade para entrar em contato ou contribuir com sugestões para este portfólio!
+
+---
+<p align="center">
+  <i>Desenvolvido por Fernando Aires</i>
+</p>
